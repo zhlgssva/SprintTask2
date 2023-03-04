@@ -1,0 +1,102 @@
+.navBar{
+	background-color: darkred;
+	display: flex;
+	justify-content: space-between;
+	padding: 15px;
+	margin-bottom: 20px;
+
+}
+.pages{
+	color: white;
+	display: flex;
+	align-items: center;
+
+}
+.pages a{
+	text-decoration: none;
+	color: lightgrey;
+	margin-left: 15px;
+
+}
+.logo{
+	color: white;
+	font-size: 22px;
+}
+.main{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background-color: lightblue;
+}
+.photo img{
+	width: 35%
+	width: 600px;
+	height: 350px;
+	margin-bottom: -3.5px;
+	padding: 15px;
+}
+.mainText{
+	width: 65%;
+	font-size: 20px;
+	height: 400px;
+}
+h3{
+	font-size: 25px;
+}
+.latestNews{
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.News{
+	display: flex;
+	padding-bottom: 20px;
+}
+.first{
+	width: 25%;
+	margin: 0px 10px;
+	border: 1px lightgray solid;
+}
+.first img{
+	width: 100%;
+}
+.second{
+	width: 25%;
+	margin: 0px 10px;
+	margin: 0px 10px;
+	border: 1px lightgray solid;
+}
+.second img{
+	width: 100%;
+}
+.third{
+	width: 25%;
+	margin: 0px 10px;
+	margin: 0px 10px;
+	border: 1px lightgray solid;
+}
+.third img{
+	width: 100%;
+}
+.forth{
+	width: 25%;
+	margin: 0px 10px;
+	margin: 0px 10px;
+	border: 1px lightgray solid;
+}
+.forth img{
+	width: 100%;
+}
+.ReadMore{
+	background-color: darkred;
+	color: white;
+	border: 0px;
+	padding: 5px;
+	align-items: flex-end;
+}
+.NewsText{
+	margin: 0px 20px;
+	padding-bottom: 20px;
+}
