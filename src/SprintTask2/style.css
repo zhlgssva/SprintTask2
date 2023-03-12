@@ -1,0 +1,171 @@
+body{
+	background-color: #E8E8E8;
+	margin: 0px;
+    padding: 0px;
+}
+.logo{
+	display: flex;
+	padding: 10px;
+	align-items: center;
+	padding-left: 240px;
+}
+.search{
+	
+	height: 25px;
+	border-radius: 40px;
+	padding: 10px;
+	margin-left: 18%;
+}
+.searchStyle{
+	border-radius: 40px;
+	background-color: #00416a;
+	display: flex;
+}
+.content{
+	display: flex;
+	margin-top: 15px;
+}
+.leftContent{
+	margin-left: 200px;
+	margin-right: 40px;
+}
+.leftContent ul{
+	list-style-type: none;
+}
+.leftContent ul a{
+	text-decoration: none;
+	color: #4c596c;
+}
+.centerContent{
+	display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+}
+.avatar{
+	padding: 10px;
+	background-color: white; 
+	border-radius: 10px
+}
+.avatar button{
+	background-color: #E8E8E8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    width: 100%;
+    height: 40px;
+    margin-top: 10px;
+}
+button {
+    all: unset;
+    cursor: pointer;
+    width: 44px;
+    height: 44px;
+    color: #00008b;
+}
+.friends{
+	background-color: white; 
+	border-radius: 10px; 
+	margin-top: 10px;
+}
+.friendsIcons{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 14px;
+}
+.friendsIcons td{
+    padding:0 10px 0 0;
+}
+.friendsIcons img{
+    height: 70px;
+}
+.friendsIcons img{
+    border-radius: 100px;
+    width: 70px;
+}
+.rightContent{
+	border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 200px;
+}
+.rightBarName{
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+.rightBarName-Name{
+    display: flex;
+    flex-direction: column;
+    
+}
+.rightBarName-Name-1{
+    display: flex;
+    justify-content: space-between;
+}
+.rightBarName-Info{
+    margin-top: 20px;
+}
+.rightBarName-Friends{
+    display: flex;
+    justify-content: space-around;
+}
+
+.rightBarName-Friends-1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.rightBarName-Friends-2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.rightBarName-Friends-3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.rightBarName-Friends-4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.rightBarName-Friends-5{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.rightBarName-Friends-6{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.rightBarPhotos{
+    background-color: white;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.rightBarPhotos-Photos {
+    display: flex;
+    /*justify-content: space-between;*/
+    margin-top: 10px;
+    width: 100%;
+}
+.rightBarContent{
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 10px;
+}
+.rightBarContent-Photo{
+    display: flex;
+
+}
+.rightBarContent-Photo img{
+    border-radius: 50px;
+    height: 60px;
+}

@@ -1,0 +1,211 @@
+body{
+	background-color: #E8E8E8;
+	margin: 0px;
+    padding: 0px;
+}
+.logo{
+	display: flex;
+	padding: 10px;
+	align-items: center;
+	padding-left: 240px;
+}
+.search{
+	
+	height: 25px;
+	border-radius: 40px;
+	padding: 10px;
+	margin-left: 18%;
+}
+.searchStyle{
+	border-radius: 40px;
+	background-color: #00416a;
+	display: flex;
+}
+.content{
+	display: flex;
+	margin-top: 15px;
+}
+.leftContent{
+	margin-left: 200px;
+	margin-right: 40px;
+}
+.leftContent ul{
+	list-style-type: none;
+}
+.leftContent ul a{
+	text-decoration: none;
+	color: #4c596c;
+}
+.centerContent{
+	display: flex;
+	flex-direction: column;
+}
+.firstBox{
+	display: flex;
+	background-color: #f8f8ff;
+	border-radius: 5px 5px 0px 0px;
+	padding: 12px 15px;
+	font-family: Arial;
+	align-items: center;
+	justify-content: space-between;
+}
+.numberOfFriends{
+	display: flex;
+}
+.numberOfFriends1{
+	color: #394b70;
+    font-weight: bold;
+	
+}
+.num1{
+	color: gray;
+	margin-left: 10px;
+}
+.numberOfFriends2{
+	color: #394b70;
+  	font-weight: bold;
+  	margin-left: 30px;
+}
+.num2{
+	color: gray;
+	margin-left: 10px;
+}
+.button1{
+	background-color: #4682b4;
+	color: white;
+	border-radius: 1px;
+	border: 0px;
+	padding: 4px 12px;
+	margin-left: 200px;
+}
+.searchFriends{
+	display: flex;
+	background-color: white;
+}
+.enterName{
+	margin-left: 25px;
+	color: grey;
+	padding: 10px;
+}
+.leftPart{
+  display: flex;
+  align-items: center;
+}
+.info{
+  margin-left: 15px;
+}
+.friends1{
+	background-color: white;
+  	font-family: Arial;
+  	font-size: 14px;
+  	color: gray;
+  	display: flex;
+  	justify-content: space-between;
+  	margin-top: 2px;
+ 	padding: 7px 14px;
+}
+.ava{
+	display: flex;
+}
+.ava1 img{
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+}
+.name{
+  color: #4277a5;
+  font-weight: bold;
+  font-size: 15px;
+}
+.university{
+	margin: 2px 0px;
+}
+.writeMess{
+  color: #4277a5;
+}
+.rightPart{
+  color: #4277a5;
+  font-weight: bold;
+  letter-spacing: 0.7px;
+}
+.rightContent{
+	width: 25%;
+  	margin-top: 20px;
+}
+.friends2{
+	background-color: white;
+  border-radius: 5px;
+  margin-left: 13px;
+  padding-top: 10px;
+  font-family: Arial;
+  font-size: 14px;
+}
+.text1{
+  font-weight: bold;
+  padding: 12px 0px;
+  background-color: #ededfd;
+  padding-left: 12px;
+}
+.text2{
+  padding: 12px 0px;
+  padding-left: 12px;
+}
+.text3{
+  padding: 12px 0px;
+  padding-left: 12px;
+}
+.text4{
+  padding: 12px 0px;
+  padding-left: 12px;
+}
+.text5{
+  padding: 12px 0px;
+  padding-left: 12px;
+}
+.text6{
+  padding: 12px 0px;
+  padding-left: 12px;
+  padding-bottom: 25px;
+}
+.friends3{
+  background-color: white;
+  border-radius: 5px;
+  margin-left: 13px;
+  padding: 12px;
+  margin-top: 13px;
+  font-family: Arial;
+  font-size: 14px;
+}
+.friends4{
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+.friends5{
+	display: flex;
+	margin-top: 10px;
+}
+.friends5 img{
+	width:50px;
+  height: 50px;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+}
+.infoo{
+	margin-left: 20px;
+}
+.avaName{
+  color: #354e6c;
+  font-size: 13px;
+}
+.friends6{
+	  margin: 5px 0px;
+  font-size: 13px;
+  color: gray;
+}
+.friends7{
+	  color: #354e6c;
+  font-size: 12px;
+}
